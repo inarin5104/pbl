@@ -1,5 +1,12 @@
-export default function FirstPost(){
+import Button from '../../components/Button';
+
+const HomePage = () => {
 	return (
-		<h1>FirstPost</h1>
-	)
-}
+		<div>
+			<h1>FirstPost</h1>
+			<Button/>
+		</div>
+	);
+};
+
+export default HomePage;
