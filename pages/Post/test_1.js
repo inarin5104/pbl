@@ -4,7 +4,7 @@ import TextInput from '../../components/TextInput';
 const HomePage = () => {
 	return (
 		<div>
-			<h1>Seina</h1>
+			<h1>Seinabakatintin</h1>
 			<Button/>
 			<TextInput/>
 		</div>
