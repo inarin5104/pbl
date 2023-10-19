@@ -14,7 +14,7 @@ const TextInput = () => {
       type="text"
       value={text}
       onChange={handleInputChange}
-      placeholder="Enter text"
+      placeholder="入力欄"
     />
   );
 };
