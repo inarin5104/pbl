@@ -1,6 +1,6 @@
 const Button = () => {
 	return (
-		<button>送信</button>
+		<button>Send</button>
 	);
 };
 
